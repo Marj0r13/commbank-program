@@ -10,9 +10,9 @@
 
 ```json
 
-mongodb+srv://MAJI-26:<db_password>@cluster0.kcnzwxm.mongodb.net/?appName=Cluster0
+
 {
-  "ConnectionStrings": {
+  "mongodb+srv://MAJI-26:<db_password>@cluster0.kcnzwxm.mongodb.net/?appName=Cluster0": {
     "CommBank": "{CONNECTION_STRING}"
   }
 }
